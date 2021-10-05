@@ -67,7 +67,7 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, para
 Faça um clone desse repositório e acesse o diretório.
 
 ```bash
-$ git clone git@github.com:LeeonardoVargas/pokedex.git && cd pokedex
+$ git clone git@github.com:anacarolliny/PokedexAPI.git && cd pokedex
 ```
 
 
